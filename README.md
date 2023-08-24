@@ -15,6 +15,9 @@ I am listing some of interesting things i found during my journey
 If you have a scanf after a printf always use \n
 
 
+You cant inizialise anything inside a switch case
+
+
 If you have a array and the inputs are not taken by scanf rather its taken by mathematical calculation to inizialise we can just inizialise by mentioning the size we have to input all element as 0 using a loop.(refer the matrix-calculator program)
 
 
